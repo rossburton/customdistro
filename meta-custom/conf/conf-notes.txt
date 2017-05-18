@@ -1,0 +1,7 @@
+
+Welcome to My Epic Custom Distro!
+=================================
+
+The awesome image is called customimage:
+
+$ bitbake customimage

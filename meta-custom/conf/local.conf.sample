@@ -1,0 +1,9 @@
+DISTRO = "custom"
+
+# This sets the default machine to be qemux86 if no other machine is selected:
+MACHINE ??= "qemux86"
+
+# CONF_VERSION is increased each time build/conf/ changes incompatibly and is used to
+# track the version of this file when it was generated. This can safely be ignored if
+# this doesn't mean anything to you.
+CONF_VERSION = "1"

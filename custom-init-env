@@ -1,0 +1,3 @@
+#! /bin/sh
+
+BITBAKEDIR=bitbake . openembedded-core/oe-init-build-env "$@"
